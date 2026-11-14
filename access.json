@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "kid": "ca980398",
  "akid": "9a6ee5c1",
  "kdf": {
@@ -13,11 +13,11 @@
    "label": "ADM01",
    "exp": null,
    "name": "Firdaus Jay",
-   "iv": "0Wi8yuejzPwSIpfR",
-   "wk": "2hYhgIMukRbfdsRTsUhqq6E6BuHJqPZoJJ/P2kpWvnFFNIeb84S8rkHgPqjw/G8d",
+   "iv": "kGYMBahv6ICvH3P9",
+   "wk": "kco8LT989AlfLnFlszsmwnyJrCncjUfc9r2XUqzoshZzmtqKRi7gJ3HQ8ZhJR9C8",
    "admin": 1,
-   "iv2": "7UJbxSnrhpLpsqJi",
-   "wk2": "3m/n3dHPQezPjaxTsDamXNJZxdisF6EhAkMZI2+cgJRWcsYRwfV5DxxuBMjO+Yxf"
+   "iv2": "gF8Oz+L1jahxnwxe",
+   "wk2": "apkBAPvMjzzdS+BF1MmbqpOPnGEigISCXr1hJG3g7Exvdc4aGE23+07Z6RVb6OXH"
   }
  },
  "vault": {}
